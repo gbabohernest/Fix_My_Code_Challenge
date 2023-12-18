@@ -8,7 +8,7 @@ class Square():
     # width = 0
     # height = 0
 
-    def __init__(self, width=0, height=0, *args, **kwargs):
+    def __init__(self, width=0, height=0):
         """Initialize a square"""
         self.width = width
         self.height = height
